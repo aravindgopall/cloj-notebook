@@ -1,0 +1,3 @@
+{"argv":["python","-m","clojurekernel", "-f", "{connection_file}"],
+ "display_name":"IClojure"
+}
